@@ -12,13 +12,13 @@
 # English introduction
 
 This repo holds questions and answers for Computer Systems and Networks (ISK) diploma exam preparation,
-which are published on official [faculty website](https://weka.pwr.edu.pl/studenci/dyplomanci/pytania-na-egzamin-dyplomowy).
+which are published on official [faculty website](https://wit.pwr.edu.pl/studenci/dyplomanci/pytania-na-egzamin-dyplomowy).
 It contains notes for directional and specialization questions, which are listed below.
 
 # Polish introduction
 
 To repozytorium zawiera pytania i odpowiedzi przygotowujące do obrony na specjalności Systemy i Sieci Komputerowe (ISK),
-które są opublikowane na [stronie wydziału](https://weka.pwr.edu.pl/studenci/dyplomanci/pytania-na-egzamin-dyplomowy).
+które są opublikowane na [stronie wydziału](https://wit.pwr.edu.pl/studenci/dyplomanci/pytania-na-egzamin-dyplomowy).
 Na ten moment zawiera notatki na pytania kierunkowe oraz specjalnościowe, wymienione poniżej.
 
 # Table of Contents
